@@ -6,7 +6,7 @@
 
 ## 💼 What I Do
 
-- Build high-performance backend systems using **PHP (Laravel)**
+- Build high-performance backend systems using **PHP (Laravel), Node.js**
 - Develop modern, responsive frontends with **Vue.js (Vue 3), React.js**
 - Design and integrate **RESTful APIs & third-party services**
 - Work with **Python (NumPy, Pandas)** for data analysis and processing
@@ -17,7 +17,7 @@
 ## 🧠 Technical Skills
 
 **Backend:**  
-PHP (Laravel), REST APIs, API Architecture  
+PHP (Laravel), Node.js, REST APIs, API Architecture  
 
 **Frontend:**  
 Vue.js (Vue 3), React.js, JavaScript, jQuery, HTML, CSS, Bootstrap, Material UI  
