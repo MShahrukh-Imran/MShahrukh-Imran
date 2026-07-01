@@ -29,7 +29,7 @@ Python (NumPy, Pandas, Matplotlib)
 MySQL, Postgresql, MongoDB
 
 **Tools & Platforms:**  
-Git, GitHub, AWS, Pusher  
+Git, GitHub, AWS, Sockets, Pusher, Kafka 
 
 ---
 
