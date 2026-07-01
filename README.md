@@ -26,7 +26,7 @@ Vue.js (Vue 3), React.js, JavaScript, jQuery, HTML, CSS, Bootstrap, Material UI
 Python (NumPy, Pandas, Matplotlib)  
 
 **Databases:**  
-MySQL, MongoDB  
+MySQL, Postgresql, MongoDB
 
 **Tools & Platforms:**  
 Git, GitHub, AWS, Pusher  
